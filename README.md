@@ -173,3 +173,6 @@ CREATE DATABASE retail_sales_db;
 
 
 > *Built to demonstrate end-to-end analytical thinking — from raw data to business insights.*
+
+# Retail Sales Analytics
+A SQL + Power BI Data Analytics Project by Harshini Bodaballa
