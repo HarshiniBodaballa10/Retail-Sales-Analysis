@@ -20,28 +20,22 @@ The project covers the complete analyst workflow — from database design and ED
 ---
 
 ## 📂 Project Structure
-
 ```
-retail-sales-analytics/
+Retail-Sales-Analysis/
 │
-├── data/
-│   └── retail_sales.csv
-├── sql/
-│   ├── database.sql
-│   ├── EDA.sql
-│   ├── customer_analysis.sql
-│   ├── product_analysis.sql
-│   ├── shipping_analysis.sql
-│   └── advanced_analysis.sql
-├── dashboard/
-│   └── retail_sales.pbix
-├── screenshots/
-│   ├── Executive Dashboard.png
-│   ├── Customer Analysis.png
-│   ├── Product Analysis.png
-│   └── Shipping Analysis.png
+├── Advanced Analysis.sql
+├── customer Analysis.sql
+├── Product Analysis.sql
+├── Shipping Analysis.sql
+├── EDA.sql
+├── database.sql
+├── retail_sales.csv
+├── retail_sales.pbix
+├── Executive Dashboard.png
+├── Customer Analysis.png
+├── Product Analysis.png
+├── Shipment Analysis.png
 └── README.md
-```
 ---
 
 ## 📊 Dataset
