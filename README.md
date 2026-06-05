@@ -1,6 +1,6 @@
 # Retail-Sales-Analysis
 # 🛒 Retail Sales Analytics — SQL + Power BI Data Analytics Project
-![Executive Dashboard](screenshots/Executive%20Dashboard.png)
+![Executive Dashboard](Executive%20Dashboard.png)
 ---
 ## 📌 Overview
 
@@ -116,16 +116,16 @@ retail-sales-analytics/
 | **Shipment Analysis** | Ship mode usage, delivery metrics, monthly trends |
 
 ### Executive Dashboard
-![Executive Dashboard](screenshots/Executive%20Dashboard.png)
+![Executive Dashboard](Executive%20Dashboard.png)
 
 ### Customer Analysis
-![Customer Analysis](screenshots/Customer%20Analysis.png)
+![Customer Analysis](Customer%20Analysis.png)
 
 ### Product Analysis
-![Product Analysis](screenshots/Product%20Analysis.png)
+![Product Analysis](Product%20Analysis.png)
 
 ### Shipment Analysis
-![Shipment Analysis](screenshots/Shipment%20Analysis.png)
+![Shipment Analysis](Shipment%20Analysis.png)
 
 ---
 
