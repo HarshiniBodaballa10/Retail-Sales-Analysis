@@ -1,6 +1,6 @@
 # Retail-Sales-Analysis
 # 🛒 Retail Sales Analytics — SQL + Power BI Data Analytics Project
-![Executive Dashboard](screenshots/Executive Dashboard.png)
+![Executive Dashboard](screenshots/Executive%20Dashboard.png)
 ---
 ## 📌 Overview
 
@@ -119,13 +119,13 @@ retail-sales-analytics/
 ![Executive Dashboard](screenshots/Executive%20Dashboard.png)
 
 ### Customer Analysis
-![Customer Analysis]("C:\Users\bodab\OneDrive\Desktop\sql\Customer Analysis.png")
+![Customer Analysis](screenshots/Customer%20Analysis.png)
 
 ### Product Analysis
-![Product Analysis]("C:\Users\bodab\OneDrive\Desktop\sql\Product Analysis.png")
+![Product Analysis](screenshots/Product%20Analysis.png)
 
 ### Shipment Analysis
-![Shipment Analysis]("C:\Users\bodab\OneDrive\Desktop\sql\Shipment Analysis.png")
+![Shipment Analysis](screenshots/Shipment%20Analysis.png)
 
 ---
 
