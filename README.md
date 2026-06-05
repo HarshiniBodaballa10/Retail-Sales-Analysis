@@ -110,16 +110,16 @@ Retail-Sales-Analysis/
 | **Shipment Analysis** | Ship mode usage, delivery metrics, monthly trends |
 
 ### Executive Dashboard
-![Executive Dashboard](Executive%20Dashboard.png)
+![Executive Dashboard](ExecutiveDashboard.png)
 
 ### Customer Analysis
-![Customer Analysis](Customer%20Analysis.png)
+![Customer Analysis](CustomerAnalysis.png)
 
 ### Product Analysis
-![Product Analysis](Product%20Analysis.png)
+![Product Analysis](ProductAnalysis.png)
 
 ### Shipment Analysis
-![Shipment Analysis](Shipment%20Analysis.png)
+![Shipment Analysis](ShipmentAnalysis.png)
 
 ---
 
