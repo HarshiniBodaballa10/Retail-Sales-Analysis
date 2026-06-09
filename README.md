@@ -1,10 +1,13 @@
-# Retail-Sales-Analysis
 # 🛒 Retail Sales Analytics — SQL + Power BI Data Analytics Project
+
 ![Executive Dashboard](https://raw.githubusercontent.com/HarshiniBodaballa10/Retail-Sales-Analysis/main/Executive%20Dashboard.png)
+
 ---
+
 ## 📌 Overview
 
 An end-to-end data analytics project built using **PostgreSQL**, **SQL**, and **Power BI** on a real-world retail dataset containing **9,800 records**.
+
 The project covers the complete analyst workflow — from database design and EDA to advanced SQL and interactive dashboards — extracting insights on customer behavior, product performance, regional trends, and shipping efficiency.
 
 ---
@@ -17,9 +20,11 @@ The project covers the complete analyst workflow — from database design and ED
 | **SQL** | EDA, advanced analytics, optimization |
 | **Power BI** | Interactive dashboards and visual storytelling |
 | **CSV** | Raw retail sales data source |
+
 ---
 
 ## 📂 Project Structure
+
 ```
 Retail-Sales-Analysis/
 │
@@ -36,6 +41,8 @@ Retail-Sales-Analysis/
 ├── Product Analysis.png
 ├── Shipment Analysis.png
 └── README.md
+```
+
 ---
 
 ## 📊 Dataset
@@ -52,6 +59,7 @@ Retail-Sales-Analysis/
 ## 🔍 Analysis Breakdown
 
 ### 1️⃣ Exploratory Data Analysis
+
 - Total sales, orders, customers, and average order value
 - Region-wise and category-wise revenue breakdown
 - Monthly sales trend across years
@@ -61,6 +69,7 @@ Retail-Sales-Analysis/
 ---
 
 ### 2️⃣ Customer Analysis
+
 **SQL Used:** `DENSE_RANK()`, CTEs, Aggregate Functions
 
 - Top customers by total revenue
@@ -72,6 +81,7 @@ Retail-Sales-Analysis/
 ---
 
 ### 3️⃣ Product Analysis
+
 **SQL Used:** `RANK() OVER (PARTITION BY)`, `NTILE()`, Window Functions
 
 - Top 10 products by revenue
@@ -83,6 +93,7 @@ Retail-Sales-Analysis/
 ---
 
 ### 4️⃣ Shipping Analysis
+
 - Average delivery time per ship mode
 - Shipment volume by category and region
 - Shipping mode efficiency comparison
@@ -92,6 +103,7 @@ Retail-Sales-Analysis/
 ---
 
 ### 5️⃣ Advanced SQL Analysis
+
 **SQL Used:** `SUM() OVER()`, `LAG()`, `ROWS BETWEEN`, `DATE_TRUNC()`, `CREATE VIEW`, `CREATE INDEX`
 
 - Running totals and rolling 7-day averages
@@ -109,18 +121,22 @@ Retail-Sales-Analysis/
 | **Product Analysis** | Top products bar, category pie, sub-category treemap |
 | **Shipment Analysis** | Ship mode usage, delivery metrics, monthly trends |
 
-
 ### Executive Dashboard
+
 ![Executive Dashboard](https://raw.githubusercontent.com/HarshiniBodaballa10/Retail-Sales-Analysis/main/Executive%20Dashboard.png)
 
 ### Customer Analysis
+
 ![Customer Analysis](https://raw.githubusercontent.com/HarshiniBodaballa10/Retail-Sales-Analysis/main/Customer%20Analysis.png)
 
 ### Product Analysis
+
 ![Product Analysis](https://raw.githubusercontent.com/HarshiniBodaballa10/Retail-Sales-Analysis/main/Product%20Analysis.png)
 
 ### Shipment Analysis
+
 ![Shipment Analysis](https://raw.githubusercontent.com/HarshiniBodaballa10/Retail-Sales-Analysis/main/Shipment%20Analysis.png)
+
 ---
 
 ## 💡 Key Business Insights
@@ -137,6 +153,7 @@ Retail-Sales-Analysis/
 ## 🚀 How to Run
 
 ### SQL Setup
+
 ```sql
 -- Step 1: Create database
 CREATE DATABASE retail_sales_db;
@@ -153,6 +170,7 @@ CREATE DATABASE retail_sales_db;
 ```
 
 ### Power BI Setup
+
 1. Open `dashboard/retail_sales.pbix` in Power BI Desktop
 2. Update data source path to your local CSV
 3. Click **Refresh** and interact with the filters
@@ -165,8 +183,10 @@ CREATE DATABASE retail_sales_db;
 
 ---
 
-
 > *Built to demonstrate end-to-end analytical thinking — from raw data to business insights.*
 
+---
+
 # Retail Sales Analytics
+
 A SQL + Power BI Data Analytics Project by Harshini Bodaballa
