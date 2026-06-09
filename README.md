@@ -109,16 +109,12 @@ Retail-Sales-Analysis/
 | **Product Analysis** | Top products bar, category pie, sub-category treemap |
 | **Shipment Analysis** | Ship mode usage, delivery metrics, monthly trends |
 
-### Executive Dashboard
 ![Executive Dashboard](https://raw.githubusercontent.com/HarshiniBodaballa10/Retail-Sales-Analysis/main/Executive%20Dashboard.png)
 
-### Customer Analysis
 ![Customer Analysis](https://raw.githubusercontent.com/HarshiniBodaballa10/Retail-Sales-Analysis/main/Customer%20Analysis.png)
 
-### Product Analysis
 ![Product Analysis](https://raw.githubusercontent.com/HarshiniBodaballa10/Retail-Sales-Analysis/main/Product%20Analysis.png)
 
-### Shipment Analysis
 ![Shipment Analysis](https://raw.githubusercontent.com/HarshiniBodaballa10/Retail-Sales-Analysis/main/Shipment%20Analysis.png)
 
 
