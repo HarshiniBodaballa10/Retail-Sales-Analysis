@@ -1,6 +1,6 @@
 # Retail-Sales-Analysis
 # 🛒 Retail Sales Analytics — SQL + Power BI Data Analytics Project
-![Executive Dashboard](Executive%20Dashboard.png)
+![Executive Dashboard](https://raw.githubusercontent.com/HarshiniBodaballa10/Retail-Sales-Analysis/main/Executive%20Dashboard.png)
 ---
 ## 📌 Overview
 
